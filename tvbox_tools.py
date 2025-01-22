@@ -48,7 +48,7 @@ class GetSrc:
         self.main_branch = 'main'
         self.slot = f'{self.mirror_proxy}/{self.username}/{self.repo}/{self.main_branch}'
         self.gh1 = [
-            'https://ghp.ci/https://raw.githubusercontent.com',
+            'https://git.0226.eu.org/https://raw.githubusercontent.com',
             'https://gitdl.cn/https://raw.githubusercontent.com',
             'https://ghproxy.net/https://raw.githubusercontent.com',
             'https://github.moeyy.xyz/https://raw.githubusercontent.com',
